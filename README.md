@@ -1,1 +1,1 @@
-# Building Banking Application Using Spring Boot , Spring data jpa and MysQl.
+# Building Banking Application REST API Using Spring Boot , Spring data jpa and MysQl.
